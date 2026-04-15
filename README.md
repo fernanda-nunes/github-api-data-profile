@@ -15,8 +15,8 @@
 ### Funcionalidades 
 <ul>
 <li>Ao digitar o usuário e clicar no botão "Buscar" ou na tecla "Enter", o sistema faz uma busca utilizando a API do GitHub e mostra na tela dados do perfil do usuário.
-<li>Os dados do perfil do usuário será apresentado em duas sessões: <br><br>
- A primeira é de Informações com Foto, Nome, bio, seguidores e quem está seguindo: <br><br>
+<li>A apresentação dos dados do perfil do usuário será em duas sessões: <br><br>
+ A primeira é de informações com Foto, Nome, bio, seguidores e quem está seguindo: <br><br>
  <img src="./src/imagens/sessão info.png">
  <br><br>
  E a segunda com os Repositórios e a lista de seus elementos: 🍴forks, ⭐stars,  👀watchings e a 👨🏿‍💻linguagem utilizada:</li>
