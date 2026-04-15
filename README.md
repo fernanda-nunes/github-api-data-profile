@@ -6,7 +6,7 @@
 
 ###  Projeto 
 
-<b> O objetivo é desenvolver uma página de busca e apresenta na tela o dados do perfil de usuário do site GitHub. 
+<b> O objetivo é desenvolver uma página de busca que apresenta na tela o dados do perfil de usuário do site GitHub. 
 
 ###  Desafio
 
@@ -15,34 +15,34 @@
 ### Funcionalidades 
 <ul>
 <li>Ao digitar o usuário e clicar no botão "Buscar" ou na tecla "Enter", o sistema faz uma busca utilizando a API do GitHub e mostra na tela dados do perfil do usuário.
-<li>Os dados do perfil do usuário será apresentado em duas sessões: <br>
- A primeira é de Informações com Foto, Nome, bio, seguidores e quem está seguindo. <br>
- <img src="./src/imagens/sessão info.png" width="100%">
+<li>Os dados do perfil do usuário será apresentado em duas sessões: <br><br>
+ A primeira é de Informações com Foto, Nome, bio, seguidores e quem está seguindo: <br><br>
+ <img src="./src/imagens/sessão info.png">
+ <br><br>
+ E a segunda com os Repositórios e a lista de seus elementos: 🍴forks, ⭐stars,  👀watchings e a 👨🏿‍💻linguagem utilizada:</li>
  <br>
- E a segunda com os Repositórios e a lista de seus elementos: 🍴forks, ⭐stars,  👀watchings e a 👨🏿‍💻linguagem utilizada.</li>
- <br>
- <img src="./src/imagens/sessão repositórios.png" width="100%">
+ <img src="./src/imagens/sessão repositórios.png">
 </ul>
 
 ### Capturas de tela 
 
 <div>
 Preview: <br>
-  <img src="./src/imagens/preview-desktop.png" width="100%">
-   <br>
+  <img src="./src/imagens/preview-desktop.png">
+  <img src="./src/imagens/preview-desktop-botão.png">
+   <br><br>
 Preview - mobile: <br>
   <img src="./src/imagens/preview-mobile.png">
-  <br>
+  <br><br>
 
 Preview da busca:  <br>
-  <img src="./src/imagens/preview-desktop-botão.png" width="100%">
-  <img src="./src/imagens/preview-desktop-interações.png" width="100%">
+  <img src="./src/imagens/preview-desktop-interações.png">
  <br>
    <br>
 ### Links 
 <ul>
 <li><a href="https://github.com/fernanda-nunes/github-api-data-profile" target="_blank"> Repositórios</a></li>
-<li><a href="" target="_blank"> Site ao vivo</a></li>
+<li><a href="https://fernanda-nunes.github.io/github-api-data-profile/" target="_blank"> Site ao vivo</a></li>
 </ul>
 
 ## O que eu aprendi 
